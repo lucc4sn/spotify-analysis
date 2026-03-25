@@ -1,0 +1,27 @@
+
+INSIGHTS PRINCIPAIS
+═══════════════════
+
+1. DOMÍNIO DE ARTISTAS
+   • Artista com mais streams : BTS (72.8M streams totais)
+   • EUA dominam o chart com 81 faixas no Top 200
+
+2. GÊNEROS
+   • Gênero mais streamado (total): Pop
+   • K-Pop concentra alto volume por faixa — média acima do geral
+
+3. TENDÊNCIAS
+   • 77.0% das faixas estão em queda (Falling)
+   • Apenas 23.0% em ascensão (Rising) — mercado em fase de acomodação
+
+4. LONGEVIDADE
+   • 71.9% das faixas são classificadas como Evergreen
+   • Faixas "New" entram com alto volume mas decaem rapidamente
+
+5. VIRAL SCORE
+   • Correlação viral score × streams: 0.76
+   • Faixas em alta (Rising) têm viral scores consistentemente maiores
+
+6. POWER LAW
+   • O top 10 do ranking acumula streams muito superiores às posições 50+
+   • Curva clássica de cauda longa: poucos artistas concentram a maior parte dos streams
